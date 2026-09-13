@@ -1,0 +1,5 @@
+5ce881d02b25d0287c127222ff6229d3a6798a9aa7f172f2b78863f1540fbad6  NetBox-Appliance-0.1.0-source.zip
+a2fd68426fb780702d7763bc02ffdd2061daf77e74c14479435110c0445d2896  NetBox-Appliance-0.1.0.ova
+cda6d9bb79658c60660d349801189e32e2c05ea1f8f543f6545c46563e3d0341  NetBox-Appliance-Build-Guide.docx
+d16a21a9c898bee34c2ee098db8943081de743d6d705805138e1baec64133bf0  NetBox-Appliance-Deployment-Guide.docx
+6734e21a72ac253a39e767ff289717fb7d814ecfbf0911b05586c4fd41ff6ecc  NetBox-Appliance-Release-Verification.docx
